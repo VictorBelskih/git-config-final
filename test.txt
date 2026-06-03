@@ -1,1 +1,3 @@
-Тест локальной конфигурации
+* 056f8c6 (HEAD -> main, origin/main) Коммит с локальными настройками пользователя
+* dea727a Add local user configuration
+* 832794c Initial commit with configured user
